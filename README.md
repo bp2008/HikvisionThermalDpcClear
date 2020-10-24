@@ -13,9 +13,11 @@ While this tool cleaned up my mess, it also uncovered several actually-defective
 
 ![dead pixels](https://i.imgur.com/EKdENbk.jpg)
 
-So I proceeded to clean them up...
+So I proceeded to clean them up using the camera's web interface.
 
 ![some dead pixels marked](https://i.imgur.com/IpGyyIT.png)
+
+...
 
 ![all dead pixels marked](https://i.imgur.com/nsEDeMc.png)
 
