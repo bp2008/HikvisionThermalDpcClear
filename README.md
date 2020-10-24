@@ -7,6 +7,8 @@ A utility that assists in clearing all defective pixel markings on a Hikvision T
 
 I played with the DPC ("Defective Pixel Correction") feature on my Hikvision Thermal camera, and then discovered there was no convenient way to locate and unmark the pixels I had marked as defective.  So I built this tool that can scan across a rectangular region of the thermal sensor and unmark every pixel along the way.  It can clear the entire 160x120 sensor in a matter of minutes.
 
+**To be clear, this tool is intended to unmask good pixels that have been accidentally marked as defective.**
+
 While this tool cleaned up my mess, it also uncovered several actually-defective pixels that had been marked as defective by the factory.
 
 ![dead pixels](https://i.imgur.com/EKdENbk.jpg)
